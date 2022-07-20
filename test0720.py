@@ -1,2 +1,3 @@
 print('hello')
-prnt('cccc')
+print('cccc')
+'''this is a test file'''
